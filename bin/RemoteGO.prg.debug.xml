@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="3" lineNum="12" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="3" lineNum="13" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="4" lineNum="17" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="4" lineNum="18" pc="268435483" symbol="onStart"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="4" lineNum="19" pc="268435513" symbol="onStart"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="4" lineNum="20" pc="268435551" symbol="onStart"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="4" lineNum="21" pc="268435597" symbol="onStart"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="4" lineNum="23" pc="268435635" symbol="onStart"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="4" lineNum="24" pc="268435659" symbol="onStart"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="5" lineNum="28" pc="268435678" symbol="onStop"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="5" lineNum="29" pc="268435682" symbol="onStop"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="5" lineNum="30" pc="268435691" symbol="onStop"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="5" lineNum="31" pc="268435700" symbol="onStop"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="5" lineNum="32" pc="268435709" symbol="onStop"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="6" lineNum="36" pc="268435719" symbol="getInitialView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\NordicThingyApp.mc" id="6" lineNum="37" pc="268435723" symbol="getInitialView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="8" lineNum="7" pc="268435742" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="8" lineNum="8" pc="268435746" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="8" lineNum="10" pc="268435764" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="8" lineNum="11" pc="268435774" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="9" lineNum="14" pc="268435785" symbol="onMenu"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="9" lineNum="15" pc="268435789" symbol="onMenu"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="9" lineNum="16" pc="268435807" symbol="onMenu"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="10" lineNum="19" pc="268435811" symbol="onSelect"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="10" lineNum="20" pc="268435815" symbol="onSelect"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="10" lineNum="21" pc="268435837" symbol="onSelect"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="11" lineNum="25" pc="268435876" symbol="onNextPage"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="11" lineNum="26" pc="268435880" symbol="onNextPage"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="12" lineNum="29" pc="268435899" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDelegate.mc" id="12" lineNum="30" pc="268435903" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="14" lineNum="11" pc="268435922" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="14" lineNum="12" pc="268435926" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="14" lineNum="13" pc="268435936" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="14" lineNum="15" pc="268435946" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="14" lineNum="17" pc="268435960" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="14" lineNum="18" pc="268435969" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="15" lineNum="21" pc="268435979" symbol="procConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="15" lineNum="22" pc="268435983" symbol="procConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="15" lineNum="24" pc="268435997" symbol="procConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="15" lineNum="27" pc="268436001" symbol="procConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="15" lineNum="28" pc="268436015" symbol="procConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="15" lineNum="31" pc="268436030" symbol="procConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="16" lineNum="34" pc="268436047" symbol="pair"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="16" lineNum="35" pc="268436051" symbol="pair"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="16" lineNum="36" pc="268436079" symbol="pair"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="17" lineNum="39" pc="268436111" symbol="unpair"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="17" lineNum="40" pc="268436115" symbol="unpair"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="17" lineNum="41" pc="268436139" symbol="unpair"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="18" lineNum="44" pc="268436149" symbol="getActiveProfile"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="18" lineNum="45" pc="268436153" symbol="getActiveProfile"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="18" lineNum="46" pc="268436174" symbol="getActiveProfile"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="18" lineNum="49" pc="268436179" symbol="getActiveProfile"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="19" lineNum="52" pc="268436189" symbol="isConnected"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDataModel.mc" id="19" lineNum="53" pc="268436193" symbol="isConnected"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="22" lineNum="6" pc="268436266" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="22" lineNum="7" pc="268436270" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="22" lineNum="9" pc="268436288" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="22" lineNum="10" pc="268436298" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="23" lineNum="13" pc="268436317" symbol="onBack"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="23" lineNum="14" pc="268436321" symbol="onBack"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="23" lineNum="15" pc="268436339" symbol="onBack"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceDelegate.mc" id="23" lineNum="16" pc="268436367" symbol="onBack"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="25" lineNum="7" pc="268436371" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="25" lineNum="8" pc="268436375" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="25" lineNum="10" pc="268436393" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="13" pc="268436404" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="14" pc="268436408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="15" pc="268436408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="17" pc="268436408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="18" pc="268436428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="20" pc="268436438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="23" pc="268436445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="24" pc="268436485" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="26" pc="268436497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="32" pc="268436561" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="33" pc="268436581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="41" pc="268436656" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="49" pc="268436731" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="57" pc="268436806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DeviceView.mc" id="26" lineNum="64" pc="268436881" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="29" lineNum="7" pc="268437419" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="29" lineNum="8" pc="268437423" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="29" lineNum="10" pc="268437441" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="30" lineNum="14" pc="268437452" symbol="onLayout"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="31" lineNum="20" pc="268437457" symbol="onShow"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="24" pc="268437462" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="25" pc="268437466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="27" pc="268437485" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="32" pc="268437534" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="33" pc="268437541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="39" pc="268437590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="40" pc="268437617" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="41" pc="268437636" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="43" pc="268437655" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="44" pc="268437691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="32" lineNum="45" pc="268437703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanView.mc" id="33" lineNum="56" pc="268437761" symbol="onHide"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ProfileManager.mc" id="35" lineNum="46" pc="268437766" symbol="registerProfiles"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ProfileManager.mc" id="35" lineNum="47" pc="268437770" symbol="registerProfiles"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ProfileManager.mc" id="36" lineNum="50" pc="268437795" symbol="getDescription"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ProfileManager.mc" id="36" lineNum="51" pc="268437799" symbol="getDescription"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ProfileManager.mc" id="36" lineNum="52" pc="268437821" symbol="getDescription"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ProfileManager.mc" id="36" lineNum="55" pc="268437836" symbol="getDescription"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="38" lineNum="9" pc="268437846" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="38" lineNum="10" pc="268437850" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="38" lineNum="12" pc="268437864" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="38" lineNum="13" pc="268437878" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="16" pc="268437892" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="17" pc="268437896" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="20" pc="268437900" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="21" pc="268437930" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="22" pc="268437955" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="23" pc="268437959" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="24" pc="268437972" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="28" pc="268437991" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="29" pc="268437996" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="39" lineNum="32" pc="268438019" symbol="procScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="40" lineNum="35" pc="268438036" symbol="nextResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="40" lineNum="36" pc="268438040" symbol="nextResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="40" lineNum="37" pc="268438075" symbol="nextResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="40" lineNum="38" pc="268438094" symbol="nextResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="41" lineNum="42" pc="268438114" symbol="previousResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="41" lineNum="43" pc="268438118" symbol="previousResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="41" lineNum="44" pc="268438135" symbol="previousResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="41" lineNum="45" pc="268438154" symbol="previousResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="42" lineNum="49" pc="268438174" symbol="getScanResults"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="42" lineNum="50" pc="268438178" symbol="getScanResults"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="43" lineNum="53" pc="268438188" symbol="getDisplayResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="43" lineNum="54" pc="268438192" symbol="getDisplayResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="43" lineNum="55" pc="268438218" symbol="getDisplayResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="43" lineNum="58" pc="268438223" symbol="getDisplayResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="44" lineNum="61" pc="268438242" symbol="getDisplayIndex"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="44" lineNum="62" pc="268438246" symbol="getDisplayIndex"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="44" lineNum="63" pc="268438272" symbol="getDisplayIndex"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="44" lineNum="66" pc="268438281" symbol="getDisplayIndex"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="45" lineNum="69" pc="268438297" symbol="getResultCount"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanDataModel.mc" id="45" lineNum="70" pc="268438301" symbol="getResultCount"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="47" lineNum="7" pc="268438320" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="47" lineNum="8" pc="268438324" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="48" lineNum="11" pc="268438335" symbol="getInitialView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="48" lineNum="12" pc="268438339" symbol="getInitialView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="48" lineNum="14" pc="268438358" symbol="getInitialView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="49" lineNum="20" pc="268438432" symbol="pushScanMenu"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="49" lineNum="21" pc="268438436" symbol="pushScanMenu"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="50" lineNum="28" pc="268438521" symbol="pushDeviceView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="50" lineNum="29" pc="268438525" symbol="pushDeviceView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ViewController.mc" id="50" lineNum="31" pc="268438546" symbol="pushDeviceView"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="17" pc="268438623" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="18" pc="268438627" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="19" pc="268438641" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="21" pc="268438655" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="22" pc="268438665" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="25" pc="268438692" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="27" pc="268438706" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="29" pc="268438733" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="30" pc="268438740" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="33" pc="268438770" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="35" pc="268438797" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="36" pc="268438804" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="39" pc="268438834" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="41" pc="268438861" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="42" pc="268438868" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="45" pc="268438898" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="47" pc="268438925" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="48" pc="268438932" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="52" lineNum="51" pc="268438962" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="54" pc="268438975" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="55" pc="268438979" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="57" pc="268439115" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="58" pc="268439129" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="61" pc="268439132" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="62" pc="268439146" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="65" pc="268439149" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="66" pc="268439163" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="69" pc="268439166" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="53" lineNum="70" pc="268439180" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="54" lineNum="74" pc="268439184" symbol="onDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="54" lineNum="75" pc="268439188" symbol="onDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="54" lineNum="76" pc="268439226" symbol="onDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="55" lineNum="80" pc="268439244" symbol="getTemperature"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="55" lineNum="81" pc="268439248" symbol="getTemperature"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="56" lineNum="84" pc="268439258" symbol="getPressure"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="56" lineNum="85" pc="268439262" symbol="getPressure"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="57" lineNum="88" pc="268439272" symbol="getHumidity"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="57" lineNum="89" pc="268439276" symbol="getHumidity"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="58" lineNum="92" pc="268439286" symbol="getEco2"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="58" lineNum="93" pc="268439290" symbol="getEco2"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="59" lineNum="96" pc="268439300" symbol="getTvoc"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\EnvironmentProfileModel.mc" id="59" lineNum="97" pc="268439304" symbol="getTvoc"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="67" lineNum="13" pc="268439904" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="67" lineNum="14" pc="268439908" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="67" lineNum="15" pc="268439926" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="68" lineNum="18" pc="268439937" symbol="onScanResults"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="68" lineNum="19" pc="268439941" symbol="onScanResults"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="68" lineNum="20" pc="268439961" symbol="onScanResults"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="68" lineNum="21" pc="268440000" symbol="onScanResults"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="69" lineNum="26" pc="268440034" symbol="onConnectedStateChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="69" lineNum="27" pc="268440038" symbol="onConnectedStateChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="69" lineNum="28" pc="268440074" symbol="onConnectedStateChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="70" lineNum="32" pc="268440109" symbol="onDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="70" lineNum="33" pc="268440113" symbol="onDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="70" lineNum="34" pc="268440149" symbol="onDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="71" lineNum="38" pc="268440184" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="71" lineNum="39" pc="268440188" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="71" lineNum="40" pc="268440224" symbol="onCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="72" lineNum="44" pc="268440259" symbol="notifyScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="72" lineNum="45" pc="268440263" symbol="notifyScanResult"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="73" lineNum="48" pc="268440283" symbol="notifyConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="73" lineNum="49" pc="268440287" symbol="notifyConnection"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="74" lineNum="52" pc="268440307" symbol="notifyDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="74" lineNum="53" pc="268440311" symbol="notifyDescriptorWrite"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="75" lineNum="56" pc="268440331" symbol="notifyCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ThingyDelegate.mc" id="75" lineNum="57" pc="268440335" symbol="notifyCharacteristicChanged"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanMenuDelegate.mc" id="79" lineNum="7" pc="268440494" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanMenuDelegate.mc" id="79" lineNum="8" pc="268440498" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanMenuDelegate.mc" id="80" lineNum="11" pc="268440517" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanMenuDelegate.mc" id="80" lineNum="12" pc="268440521" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanMenuDelegate.mc" id="80" lineNum="13" pc="268440532" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanMenuDelegate.mc" id="80" lineNum="15" pc="268440563" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\ScanMenuDelegate.mc" id="80" lineNum="16" pc="268440574" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="82" lineNum="14" pc="268440606" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="82" lineNum="15" pc="268440610" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="82" lineNum="16" pc="268440620" symbol="initialize"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="83" lineNum="19" pc="268440631" symbol="getScanDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="83" lineNum="20" pc="268440635" symbol="getScanDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="83" lineNum="21" pc="268440635" symbol="getScanDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="83" lineNum="22" pc="268440672" symbol="getScanDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="83" lineNum="23" pc="268440704" symbol="getScanDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="83" lineNum="26" pc="268440726" symbol="getScanDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="83" lineNum="29" pc="268440745" symbol="getScanDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="84" lineNum="32" pc="268440749" symbol="getDeviceDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="84" lineNum="33" pc="268440753" symbol="getDeviceDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="84" lineNum="34" pc="268440753" symbol="getDeviceDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="84" lineNum="35" pc="268440790" symbol="getDeviceDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="84" lineNum="36" pc="268440826" symbol="getDeviceDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="84" lineNum="39" pc="268440848" symbol="getDeviceDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="84" lineNum="42" pc="268440867" symbol="getDeviceDataModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="85" lineNum="45" pc="268440871" symbol="getEnvironmentModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="85" lineNum="46" pc="268440875" symbol="getEnvironmentModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="85" lineNum="47" pc="268440875" symbol="getEnvironmentModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="85" lineNum="48" pc="268440912" symbol="getEnvironmentModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="85" lineNum="51" pc="268440954" symbol="getEnvironmentModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="85" lineNum="54" pc="268440976" symbol="getEnvironmentModel"/>
+<entry filename="C:\\Users\\s.minkov\\Documents\\GoPro\\RemoteGO\\source\\DataModelFactory.mc" id="85" lineNum="57" pc="268440995" symbol="getEnvironmentModel"/>
+<entry filename="Rez" id="93" lineNum="24" pc="268440999" symbol="initialize"/>
+<entry filename="Rez" id="93" lineNum="25" pc="268441003" symbol="initialize"/>
+<entry filename="Rez" id="93" lineNum="26" pc="268441021" symbol="initialize"/>
+<entry filename="Rez" id="93" lineNum="27" pc="268441077" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="20" object="true" symbol="ScanMenuDelegate"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="25" method="true" symbol="pushDeviceView"/>
+<entry field="true" id="65" symbol="AIR_QUALITY_CHARACTERISTIC"/>
+<entry id="90" method="true" symbol="notifyDescriptorWrite"/>
+<entry field="true" id="64" symbol="HUMIDITY_CHARACTERISTIC"/>
+<entry field="true" id="97" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_temperature&gt;"/>
+<entry field="true" id="32" symbol="&lt;globals/ScanDataModel/&lt;&gt;_displayResult&gt;"/>
+<entry field="true" id="94" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_service&gt;"/>
+<entry field="true" id="85" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onConnection&gt;"/>
+<entry id="79" method="true" symbol="pair"/>
+<entry field="true" id="101" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_tvoc&gt;"/>
+<entry field="true" id="22" symbol="_scanDataModel"/>
+<entry field="true" id="67" symbol="&lt;globals/ProfileManager/&lt;&gt;_envProfileDef&gt;"/>
+<entry id="17" object="true" symbol="ViewController"/>
+<entry id="110" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;"/>
+<entry id="108" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="28" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_bleDelegate&gt;"/>
+<entry field="true" id="62" symbol="TEMPERATURE_CHARACTERISTIC"/>
+<entry id="11" object="true" symbol="DeviceDataModel"/>
+<entry id="9" object="true" symbol="NordicThingyApp"/>
+<entry id="111" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;"/>
+<entry id="8391256" method="true" symbol="onScanResults"/>
+<entry id="93" method="true" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+<entry field="true" id="96" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_pendingNotifies&gt;"/>
+<entry id="78" method="true" symbol="procConnection"/>
+<entry id="46" method="true" symbol="getScanDataModel"/>
+<entry field="true" id="60" symbol="AppName"/>
+<entry field="true" id="55" symbol="TempInd"/>
+<entry id="8391262" method="true" symbol="onDescriptorWrite"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="18" object="true" symbol="EnvironmentProfileModel"/>
+<entry id="37" method="true" symbol="getScanResults"/>
+<entry id="105" method="true" symbol="getEco2"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="52" symbol="HumidityInd"/>
+<entry field="true" id="66" symbol="THINGY_CONFIGURATION_SERVICE"/>
+<entry id="8391340" symbol="descriptors"/>
+<entry id="12" object="true" symbol="DeviceDelegate"/>
+<entry field="true" id="26" symbol="&lt;globals/DeviceView/&lt;&gt;_dataModel&gt;"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="102" method="true" symbol="getTemperature"/>
+<entry field="true" id="68" symbol="&lt;globals/ProfileManager/&lt;&gt;UuidNameLookup&gt;"/>
+<entry id="8391263" method="true" symbol="onCharacteristicChanged"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8391258" method="true" symbol="onConnectedStateChanged"/>
+<entry id="15" object="true" symbol="ProfileManager"/>
+<entry id="70" method="true" symbol="getDescription"/>
+<entry id="114" symbol="item_2"/>
+<entry id="113" symbol="item_1"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="50" module="true" symbol="Menus"/>
+<entry id="81" method="true" symbol="getActiveProfile"/>
+<entry field="true" id="30" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_modelFactory&gt;"/>
+<entry field="true" id="61" symbol="THINGY_ENVIRONMENTAL_SERVICE"/>
+<entry field="true" id="42" symbol="&lt;globals/DataModelFactory/&lt;&gt;_profileManager&gt;"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="63" symbol="PRESSURE_CHARACTERISTIC"/>
+<entry id="13" object="true" symbol="DeviceView"/>
+<entry field="true" id="74" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_scanResult&gt;"/>
+<entry id="48" method="true" symbol="getEnvironmentModel"/>
+<entry id="36" method="true" symbol="previousResult"/>
+<entry id="80" method="true" symbol="unpair"/>
+<entry id="19" object="true" symbol="ThingyDelegate"/>
+<entry id="35" method="true" symbol="nextResult"/>
+<entry field="true" id="45" symbol="&lt;globals/DataModelFactory/&lt;&gt;_envModel&gt;"/>
+<entry id="107" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+<entry field="true" id="56" symbol="Launcher"/>
+<entry field="true" id="31" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_viewController&gt;"/>
+<entry field="true" id="71" symbol="&lt;globals/DeviceDelegate/&lt;&gt;_deviceDataModel&gt;"/>
+<entry field="true" id="87" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onCharChanged&gt;"/>
+<entry field="true" id="54" symbol="PressureInd"/>
+<entry id="57" object="true" symbol="MainMenu"/>
+<entry id="104" method="true" symbol="getHumidity"/>
+<entry id="47" method="true" symbol="getDeviceDataModel"/>
+<entry field="true" id="100" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_eco2&gt;"/>
+<entry id="40" method="true" symbol="getResultCount"/>
+<entry id="106" method="true" symbol="getTvoc"/>
+<entry id="8391244" method="true" symbol="isConnected"/>
+<entry field="true" id="76" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_environmentProfile&gt;"/>
+<entry id="91" method="true" symbol="notifyCharacteristicChanged"/>
+<entry id="8391337" symbol="offset"/>
+<entry id="103" method="true" symbol="getPressure"/>
+<entry field="true" id="99" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_humidity&gt;"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="69" method="true" symbol="registerProfiles"/>
+<entry field="true" id="41" symbol="&lt;globals/DataModelFactory/&lt;&gt;_delegate&gt;"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="44" symbol="&lt;globals/DataModelFactory/&lt;&gt;_deviceDataModel&gt;"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="109" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;"/>
+<entry field="true" id="23" symbol="&lt;globals/ViewController/&lt;&gt;_modelFactory&gt;"/>
+<entry id="27" method="true" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+<entry id="112" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;"/>
+<entry id="92" method="true" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="88" method="true" symbol="notifyScanResult"/>
+<entry field="true" id="72" symbol="&lt;globals/ScanDelegate/&lt;&gt;_scanDataModel&gt;"/>
+<entry id="39" method="true" symbol="getDisplayIndex"/>
+<entry field="true" id="86" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onDescriptorWrite&gt;"/>
+<entry field="true" id="53" symbol="LeafInd"/>
+<entry id="8391334" symbol="uuid"/>
+<entry id="24" method="true" symbol="pushScanMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="29" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_profileManager&gt;"/>
+<entry field="true" id="33" symbol="&lt;globals/ScanDataModel/&lt;&gt;_scanResults&gt;"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="21" object="true" symbol="DataModelFactory"/>
+<entry id="8391341" symbol="characteristics"/>
+<entry id="14" object="true" symbol="ScanView"/>
+<entry id="16" object="true" symbol="ScanDataModel"/>
+<entry field="true" id="51" symbol="Co2Ind"/>
+<entry field="true" id="95" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_profileManager&gt;"/>
+<entry id="38" method="true" symbol="getDisplayResult"/>
+<entry id="49" module="true" symbol="Layouts"/>
+<entry field="true" id="83" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_profileManager&gt;"/>
+<entry field="true" id="73" symbol="&lt;globals/ScanDelegate/&lt;&gt;_viewController&gt;"/>
+<entry id="82" method="true" symbol="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;"/>
+<entry field="true" id="98" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_pressure&gt;"/>
+<entry id="10" object="true" symbol="ScanDelegate"/>
+<entry field="true" id="75" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_device&gt;"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="43" symbol="&lt;globals/DataModelFactory/&lt;&gt;_scanDataModel&gt;"/>
+<entry field="true" id="77" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_dataModelFactory&gt;"/>
+<entry id="89" method="true" symbol="notifyConnection"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry id="34" method="true" symbol="procScanResult"/>
+<entry field="true" id="84" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onScanResult&gt;"/>
+<entry field="true" id="59" symbol="menu_label_2"/>
+<entry field="true" id="58" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435678" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435719" name="state" stackId="1" startPc="268435678"/>
+<entry endPc="268435785" name="scanDataModel" stackId="1" startPc="268435742"/>
+<entry endPc="268435785" name="viewController" stackId="2" startPc="268435742"/>
+<entry endPc="268435979" name="dataModelFactory" stackId="2" startPc="268435922"/>
+<entry endPc="268435979" name="scanResult" stackId="3" startPc="268435922"/>
+<entry endPc="268435979" name="bleDelegate" stackId="1" startPc="268435922"/>
+<entry endPc="268436047" name="device" stackId="1" startPc="268435979"/>
+<entry endPc="268436047" name="connState" stackId="2" startPc="268435979"/>
+<entry endPc="268436317" name="deviceDataModel" stackId="1" startPc="268436266"/>
+<entry endPc="268436404" name="dataModel" stackId="1" startPc="268436371"/>
+<entry endPc="268436959" name="bkgnd" stackId="2" startPc="268436408"/>
+<entry endPc="268436959" name="statusString" stackId="3" startPc="268436408"/>
+<entry endPc="268436960" name="dc" stackId="1" startPc="268436404"/>
+<entry endPc="268437418" name="cellY" stackId="10" startPc="268436964"/>
+<entry endPc="268437418" name="cellX" stackId="11" startPc="268436964"/>
+<entry endPc="268437418" name="cellWidth" stackId="9" startPc="268436964"/>
+<entry endPc="268437418" name="image" stackId="13" startPc="268436964"/>
+<entry endPc="268437418" name="cellXOffset" stackId="12" startPc="268436964"/>
+<entry endPc="268437418" name="gridOffset" stackId="7" startPc="268436964"/>
+<entry endPc="268437418" name="cellHeight" stackId="8" startPc="268436964"/>
+<entry endPc="268437418" name="label" stackId="14" startPc="268436964"/>
+<entry endPc="268437418" name="imageOffset" stackId="15" startPc="268436964"/>
+<entry endPc="268437419" name="cell" stackId="6" startPc="268436960"/>
+<entry endPc="268437419" name="dc" stackId="1" startPc="268436960"/>
+<entry endPc="268437419" name="units" stackId="5" startPc="268436960"/>
+<entry endPc="268437419" name="value" stackId="3" startPc="268436960"/>
+<entry endPc="268437419" name="bitmap" stackId="2" startPc="268436960"/>
+<entry endPc="268437419" name="format" stackId="4" startPc="268436960"/>
+<entry endPc="268437452" name="scanDataModel" stackId="1" startPc="268437419"/>
+<entry endPc="268437457" name="dc" stackId="1" startPc="268437452"/>
+<entry endPc="268437760" name="displayResult" stackId="2" startPc="268437466"/>
+<entry endPc="268437760" name="textOffset" stackId="5" startPc="268437466"/>
+<entry endPc="268437760" name="strDimen" stackId="4" startPc="268437466"/>
+<entry endPc="268437760" name="str" stackId="3" startPc="268437466"/>
+<entry endPc="268437761" name="dc" stackId="1" startPc="268437462"/>
+<entry endPc="268437843" name="uuid" stackId="1" startPc="268437795"/>
+<entry endPc="268437892" name="bleDelegate" stackId="1" startPc="268437846"/>
+<entry endPc="268437991" name="i" stackId="3" startPc="268437930"/>
+<entry endPc="268438035" name="newDevice" stackId="2" startPc="268437896"/>
+<entry endPc="268438036" name="scanResult" stackId="1" startPc="268437892"/>
+<entry endPc="268438335" name="modelFactory" stackId="1" startPc="268438320"/>
+<entry endPc="268438431" name="scanDataModel" stackId="1" startPc="268438339"/>
+<entry endPc="268438622" name="deviceDataModel" stackId="2" startPc="268438525"/>
+<entry endPc="268438623" name="scanResult" stackId="1" startPc="268438521"/>
+<entry endPc="268438974" name="characteristic" stackId="4" startPc="268438627"/>
+<entry endPc="268438975" name="profileManager" stackId="2" startPc="268438623"/>
+<entry endPc="268438975" name="delegate" stackId="1" startPc="268438623"/>
+<entry endPc="268438975" name="device" stackId="3" startPc="268438623"/>
+<entry endPc="268439184" name="char" stackId="1" startPc="268438975"/>
+<entry endPc="268439184" name="value" stackId="2" startPc="268438975"/>
+<entry endPc="268439244" name="status" stackId="2" startPc="268439184"/>
+<entry endPc="268439244" name="descriptor" stackId="1" startPc="268439184"/>
+<entry endPc="268439436" name="char" stackId="1" startPc="268439318"/>
+<entry endPc="268439436" name="cccd" stackId="2" startPc="268439318"/>
+<entry endPc="268439544" name="status" stackId="1" startPc="268439437"/>
+<entry endPc="268439647" name="value" stackId="1" startPc="268439544"/>
+<entry endPc="268439700" name="value" stackId="1" startPc="268439647"/>
+<entry endPc="268439802" name="value" stackId="1" startPc="268439700"/>
+<entry endPc="268439904" name="value" stackId="1" startPc="268439802"/>
+<entry endPc="268439937" name="profileManager" stackId="1" startPc="268439904"/>
+<entry endPc="268440033" name="result" stackId="2" startPc="268439961"/>
+<entry endPc="268440034" name="scanResults" stackId="1" startPc="268439937"/>
+<entry endPc="268440109" name="device" stackId="1" startPc="268440034"/>
+<entry endPc="268440109" name="state" stackId="2" startPc="268440034"/>
+<entry endPc="268440184" name="status" stackId="2" startPc="268440109"/>
+<entry endPc="268440184" name="descriptor" stackId="1" startPc="268440109"/>
+<entry endPc="268440259" name="char" stackId="1" startPc="268440184"/>
+<entry endPc="268440259" name="value" stackId="2" startPc="268440184"/>
+<entry endPc="268440283" name="interface" stackId="1" startPc="268440259"/>
+<entry endPc="268440307" name="interface" stackId="1" startPc="268440283"/>
+<entry endPc="268440331" name="interface" stackId="1" startPc="268440307"/>
+<entry endPc="268440355" name="interface" stackId="1" startPc="268440331"/>
+<entry endPc="268440428" name="scanResult" stackId="1" startPc="268440355"/>
+<entry endPc="268440490" name="uuid" stackId="3" startPc="268440452"/>
+<entry endPc="268440494" name="iter" stackId="1" startPc="268440428"/>
+<entry endPc="268440494" name="obj" stackId="2" startPc="268440428"/>
+<entry endPc="268440606" name="item" stackId="1" startPc="268440517"/>
+<entry endPc="268440631" name="profileManager" stackId="2" startPc="268440606"/>
+<entry endPc="268440631" name="delegate" stackId="1" startPc="268440606"/>
+<entry endPc="268440748" name="dataModel" stackId="1" startPc="268440635"/>
+<entry endPc="268440870" name="dataModel" stackId="2" startPc="268440753"/>
+<entry endPc="268440871" name="scanResult" stackId="1" startPc="268440749"/>
+<entry endPc="268440998" name="dataModel" stackId="2" startPc="268440875"/>
+<entry endPc="268440999" name="device" stackId="1" startPc="268440871"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="238" parentId="globals" symbolId="ScanView" type="class"/>
+<dataEntry offset="325" parentId="globals" symbolId="ViewController" type="class"/>
+<dataEntry offset="404" parentId="globals" symbolId="DeviceView" type="class"/>
+<dataEntry offset="475" parentId="globals" symbolId="NordicThingyApp" type="class"/>
+<dataEntry offset="578" parentId="globals" symbolId="ScanDataModel" type="class"/>
+<dataEntry offset="697" parentId="globals" symbolId="DataModelFactory" type="class"/>
+<dataEntry offset="808" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="887" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="966" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1005" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="1052" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1083" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1114" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1145" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1200" parentId="globals" symbolId="ProfileManager" type="class"/>
+<dataEntry offset="1327" parentId="globals" symbolId="DeviceDelegate" type="class"/>
+<dataEntry offset="1390" parentId="globals" symbolId="ScanMenuDelegate" type="class"/>
+<dataEntry offset="1445" parentId="globals" symbolId="ScanDelegate" type="class"/>
+<dataEntry offset="1540" parentId="globals" symbolId="DeviceDataModel" type="class"/>
+<dataEntry offset="1667" parentId="globals" symbolId="ThingyDelegate" type="class"/>
+<dataEntry offset="1834" parentId="globals" symbolId="EnvironmentProfileModel" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="NordicThingyApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="NordicThingyApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="NordicThingyApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="NordicThingyApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ScanDelegate">
+<param id="scanDataModel"/>
+<param id="viewController"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="ScanDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="ScanDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="ScanDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="ScanDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DeviceDataModel">
+<param id="bleDelegate"/>
+<param id="dataModelFactory"/>
+<param id="scanResult"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="procConnection" parent="DeviceDataModel">
+<param id="device"/>
+<param id="connState"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="pair" parent="DeviceDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="unpair" parent="DeviceDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getActiveProfile" parent="DeviceDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isConnected" parent="DeviceDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;" parent="DeviceDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DeviceDelegate">
+<param id="deviceDataModel"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="DeviceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DeviceView">
+<param id="dataModel"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DeviceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;" parent="DeviceView">
+<param id="dc"/>
+<param id="bitmap"/>
+<param id="value"/>
+<param id="format"/>
+<param id="units"/>
+<param id="cell"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ScanView">
+<param id="scanDataModel"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="ScanView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="ScanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="ScanView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="ScanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="registerProfiles" parent="ProfileManager">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDescription" parent="ProfileManager">
+<param id="uuid"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ScanDataModel">
+<param id="bleDelegate"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="procScanResult" parent="ScanDataModel">
+<param id="scanResult"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="nextResult" parent="ScanDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="previousResult" parent="ScanDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getScanResults" parent="ScanDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDisplayResult" parent="ScanDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDisplayIndex" parent="ScanDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getResultCount" parent="ScanDataModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ViewController">
+<param id="modelFactory"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="ViewController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="pushScanMenu" parent="ViewController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="pushDeviceView" parent="ViewController">
+<param id="scanResult"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EnvironmentProfileModel">
+<param id="delegate"/>
+<param id="profileManager"/>
+<param id="device"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onCharacteristicChanged" parent="EnvironmentProfileModel">
+<param id="char"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onDescriptorWrite" parent="EnvironmentProfileModel">
+<param id="descriptor"/>
+<param id="status"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTemperature" parent="EnvironmentProfileModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPressure" parent="EnvironmentProfileModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHumidity" parent="EnvironmentProfileModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getEco2" parent="EnvironmentProfileModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTvoc" parent="EnvironmentProfileModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;" parent="EnvironmentProfileModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;" parent="EnvironmentProfileModel">
+<param id="status"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;" parent="EnvironmentProfileModel">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;" parent="EnvironmentProfileModel">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;" parent="EnvironmentProfileModel">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;" parent="EnvironmentProfileModel">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ThingyDelegate">
+<param id="profileManager"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onScanResults" parent="ThingyDelegate">
+<param id="scanResults"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onConnectedStateChanged" parent="ThingyDelegate">
+<param id="device"/>
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onDescriptorWrite" parent="ThingyDelegate">
+<param id="descriptor"/>
+<param id="status"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onCharacteristicChanged" parent="ThingyDelegate">
+<param id="char"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="notifyScanResult" parent="ThingyDelegate">
+<param id="interface"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="notifyConnection" parent="ThingyDelegate">
+<param id="interface"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="notifyDescriptorWrite" parent="ThingyDelegate">
+<param id="interface"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="notifyCharacteristicChanged" parent="ThingyDelegate">
+<param id="interface"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;" parent="ThingyDelegate">
+<param id="scanResult"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" name="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;" parent="ThingyDelegate">
+<param id="iter"/>
+<param id="obj"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ScanMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="ScanMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DataModelFactory">
+<param id="delegate"/>
+<param id="profileManager"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getScanDataModel" parent="DataModelFactory">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDeviceDataModel" parent="DataModelFactory">
+<param id="scanResult"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getEnvironmentModel" parent="DataModelFactory">
+<param id="device"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
